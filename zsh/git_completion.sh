@@ -1,5 +1,5 @@
 # this is specific to the location of the current version of git, installed by homebrew
-completion=/usr/local/Cellar/git/2.7.4/etc/bash_completion.d/git-completion.bash
+completion='$(brew --prefix)/share/zsh/site-functions/_git'
 
 if test -f $completion; then
     source $completion
