@@ -1,4 +1,4 @@
-# dotfiles
+# Dotfiles
 My vim, zsh, git, homebrew and neovim configuration files
 
 ## Initial Setup and Installation
