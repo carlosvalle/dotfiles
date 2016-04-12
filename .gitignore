@@ -1,5 +1,6 @@
 .netrwhist
 npm-debug.log
+.DS_Store
 
 plug.vim.old
 
